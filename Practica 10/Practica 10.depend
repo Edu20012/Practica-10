@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683649919 source:c:\users\usuario\desktop\practica 10\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<memory>
+
